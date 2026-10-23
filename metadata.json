@@ -1,0 +1,6 @@
+{
+  "name": "Welcome Mega",
+  "description": "Professional embroidery and chenille CAD workstation for viewing, editing, and exporting DST machine files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
